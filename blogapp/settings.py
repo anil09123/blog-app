@@ -131,3 +131,5 @@ EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'anilnavik486@gmail.com' 
 EMAIL_HOST_PASSWORD = 'bvlh vsec fkxz dhpe'
+
+CSRF_TRUSTED_ORIGINS = ['https://blog-app-4957.onrender.com/']
